@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "Please! Launcher",
   "version": "0.1.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "fr.josselinonduty.please-launcher",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:3000",
